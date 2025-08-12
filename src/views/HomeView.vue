@@ -8,6 +8,7 @@
         <router-link to="/sp2"><h3>SP2</h3></router-link>
         <router-link to="/sp3"><h3>SP3</h3></router-link>
         <router-link to="/sp4"><h3>SP4</h3></router-link>
+        <router-link to="/sp5"><h3>SP5</h3></router-link>
     </main>
   </div>
 </template>

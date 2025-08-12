@@ -29,6 +29,11 @@ const router = createRouter({
       name: 'sp4',
       component: () => import('../views/SP4/index.vue'),
     },
+    {
+      path: '/sp5',
+      name: 'sp5',
+      component: () => import('../views/SP5/index.vue'),
+    },
     
   ],
 })
